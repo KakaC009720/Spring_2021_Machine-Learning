@@ -2,3 +2,4 @@
 Machine Learning @NTU EE, Spring 2021
 
 
+record of learning only
